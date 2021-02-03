@@ -1,3 +1,0 @@
-# gcubme-robot
-rotate
-translate
